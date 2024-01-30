@@ -1,10 +1,4 @@
-<!-- ### Hi 👋 Everyone
-
-📫 How to reach me: <a href='mailto:jhonatanmaranosilva@gmail.com'>jhonatanmaranosilva@gmail.com</a>
-I love working with an agile dev team. -->
-
 <h3 align="center">
-  I am an innovative full-stack developer.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -78,18 +72,3 @@ I love working with an agile dev team. -->
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
-
-<!--
-**jhonatan-dev/jhonatan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
